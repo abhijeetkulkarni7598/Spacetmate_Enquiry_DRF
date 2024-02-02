@@ -1,0 +1,48 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Virtual environment
+venv/
+.env
+
+# IDE/Editor
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Development and production files
+.env.development
+.env.production
+.env.local
+.env
+db.sqlite3
+
+__pycache__/
+env/
+api/__pycache__/
+api/__pycache__/
+api/__pycache_/
+__pycache__ /
+
+
+# System files
+.DS_Store
+Thumbs.db

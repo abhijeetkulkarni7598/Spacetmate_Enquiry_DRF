@@ -1,0 +1,108 @@
+Not in inventory:
+Taper
+Visor Stitch
+Eyelet
+Piping Type
+Under Type
+Top Type
+
+
+
+cap types
+1. BUCKET  HAT 
+2. BASE BALL CAP
+3. 5 PART CAP 
+4. 6 PART CAP
+5. 3 PART CAP 
+6. HIP HOP CAP
+7. Manual
+4k + 1k 
+
+
+Sweat Band: Type & Quantity  single  mtr
+
+Visor Type: Type & Quantity    top side & under side  no.
+
+Fusing: Type & Quantity   front  mtr
+
+Button: quantity   single no
+
+Back Closer: type, color & quantity   single    no
+
+
+
+
+Velcro: 
+
+
+
+Inventory:
+Type, Color, Quantity
+
+
+report: 
+
+
+
+
+
+
+
+
+
+64be90f5fff424ade1f9320d
+
+quantity
+
+
+
+{
+type: 
+Color:
+Quantity:
+}
+
+min Stock: 
+
+prvent jobcard submitting if invetory is less
+
+
+
+
+
+
+
+
+Cardbord: very small, small, mediaum & Large. each have quantity 
+
+
+
+
+Thread: color, color code, Quantity
+
+
+
+
+check if dynamically new category product added
+
+
+
+
+Main Fabric : change block according to cap type
+
+
+
+
+
+
+Cloths => Create Invectory Items
+
+Color cloths => Asign Color Or Type
+
+Caps => Cap Requirements
+
+
+
+
+
+siapune.com/admin/
